@@ -1,4 +1,4 @@
-#859NighttimeLightsAnalysis 
+# 859NighttimeLightsAnalysis 
 
 In September 2017, Puerto Rico was hit by two devestating hurricanes. Category 5 hurricane, Irma, passed close to the main island on September 7th, causing widespread outages. This event was followed by Hurricane Maria, which made landfall on September 20th. The impact of damage, knowcked out over 80% of Puerto Rico's electric grid leaving residents without power for months, and somes areas not having restoration until a year later. These events resulted in the longest blackout in U.S. history.
 
